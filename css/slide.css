@@ -1,0 +1,285 @@
+@media (max-width: 320px) {
+  .btn_video {
+    padding: 9px 18px !important;
+    color: #fff;
+    border: 1px solid;
+    background: none !important;
+    border-radius: 0px;
+    text-transform: uppercase;
+    font-family: 'Open Sans','Helvetica Neue',Arial,sans-serif;
+    font-weight: 700;
+    font-size: 20px;
+  }
+}
+
+
+@media (max-width: 599px) {
+	.pick_slide_1 {
+    width: 100%;
+    height: 226px;
+    background: url("../fotos/slide_1-movil.jpg");
+    background-size: 100%;
+    background-repeat: no-repeat;
+ 	}
+
+ 	.pick_slide_2 {
+    width: 100%;
+    height: 230px;
+    background: url("../fotos/slide_2-movil.jpg");
+    background-size: 100%;
+    background-repeat: no-repeat;
+ 	}
+
+ 	.pick_slide_3 {
+    width: 100%;
+    height: 230px;
+    background: url("../fotos/slide_3.jpg");
+    background-size: auto 100%;
+    background-position: -100px;
+    background-repeat: no-repeat;
+ 	}
+
+
+ 	.pick_slide_4 {
+    width: 100%;
+    height: 230px;
+    background: url("../fotos/slide_4-movil.jpg");
+    background-size: 100%;
+    background-repeat: no-repeat;
+ 	}
+
+  .pick_slide_5 {
+    width: 100%;
+    height: 230px;
+    background: url("../fotos/predicas_1-movil.jpg");
+    background-size: 100%;
+    background-repeat: no-repeat;
+  }
+
+  .btn_video {
+    padding: 10px 40px;
+    color: #fff;
+    border: 1px solid;
+    background: none !important;
+    border-radius: 0px;
+    text-transform: uppercase;
+    font-family: 'Open Sans','Helvetica Neue',Arial,sans-serif;
+    font-weight: 700;
+    font-size: 20px;
+  }
+
+ 	 .bullet {
+ 	display: none;
+ 	}
+
+  }
+
+
+
+  @media (min-width: 768px) {
+	.pick_slide_1 {
+    width: 100%;
+    height: 226px;
+    background: url("../fotos/slide_1.jpg");
+    background-size: 100%;
+    background-repeat: no-repeat;
+ 	}
+
+ 	.pick_slide_2 {
+    width: 100%;
+    height: 230px;
+    background: url("../fotos/slide_2.jpg");
+    background-size: 100%;
+    background-repeat: no-repeat;
+ 	}
+
+ 	.pick_slide_3 {
+    width: 100%;
+    height: 230px;
+    background: url("../fotos/slide_3.jpg");
+    background-size: 100%;
+    background-repeat: no-repeat;
+ 	}
+
+ 	.pick_slide_4 {
+    width: 100%;
+    height: 230px;
+    background: url("../fotos/slide_4.jpg");
+    background-size: 100%;
+    background-repeat: no-repeat;
+ 	}
+
+  .pick_slide_5 {
+    width: 100%;
+    height: 230px;
+    background: url("../fotos/predicas_1.jpg");
+    background-size: 100%;
+    background-repeat: no-repeat;
+  }
+
+ 	 .bullet {
+ 	display: block;
+ 	}
+
+  .btn_video {
+    padding: 10px 40px;
+    color: #fff;
+    border: 1px solid;
+    background: none !important;
+    border-radius: 0px;
+    text-transform: uppercase;
+    font-family: 'Open Sans','Helvetica Neue',Arial,sans-serif;
+    font-weight: 700;
+    font-size: 16px;
+}
+
+  }
+
+    @media (min-width: 1000px) {
+    .pick_slide_1 {
+    width: 100%;
+    height: 400px;
+    background: url("../fotos/slide_1.jpg");
+     }
+
+     .pick_slide_2 {
+    width: 100%;
+    height: 400px;
+    background: url("../fotos/slide_2.jpg");
+     }
+
+     .pick_slide_3 {
+    width: 100%;
+    height: 400px;
+    background: url("../fotos/slide_3.jpg");
+     }
+
+     .pick_slide_4 {
+    width: 100%;
+    height: 400px;
+    background: url("../fotos/slide_4.jpg");
+     }
+
+    .pick_slide_5 {
+    width: 100%;
+    height: 400px;
+    background: url("../fotos/predicas_1.jpg");
+     }
+
+    .bullet {
+    display: block;
+    }
+
+  }
+
+    @media (min-width: 1100px) {
+    .pick_slide_1 {
+    width: 100%;
+    height: 400px;
+    background: url("../fotos/slide_1.jpg");
+     }
+
+     .pick_slide_2 {
+    width: 100%;
+    height: 400px;
+    background: url("../fotos/slide_2.jpg");
+     }
+
+     .pick_slide_3 {
+    width: 100%;
+    height: 400px;
+    background: url("../fotos/slide_3.jpg");
+     }
+
+     .pick_slide_4 {
+    width: 100%;
+    height: 400px;
+    background: url("../fotos/slide_4.jpg");
+     }
+
+    .pick_slide_5 {
+    width: 100%;
+    height: 400px;
+    background: url("../fotos/predicas_1.jpg");
+     }
+
+    .bullet {
+    display: block;
+    }
+
+  }
+
+
+    @media (min-width: 1200px) {
+    .pick_slide_1 {
+    width: 100%;
+    height: 400px;
+    background: url("../fotos/slide_1.jpg");
+     }
+
+     .pick_slide_2 {
+    width: 100%;
+    height: 400px;
+    background: url("../fotos/slide_2.jpg");
+     }
+
+     .pick_slide_3 {
+    width: 100%;
+    height: 400px;
+    background: url("../fotos/slide_3.jpg");
+     }
+
+     .pick_slide_4 {
+    width: 100%;
+    height: 400px;
+    background: url("../fotos/slide_4.jpg");
+     }
+
+      .pick_slide_5 {
+    width: 100%;
+    height: 400px;
+    background: url("../fotos/predicas_1.jpg");
+     }
+
+    .bullet {
+    display: block;
+    }
+
+  }
+
+    @media (min-width: 1300px) {
+	.pick_slide_1 {
+    width: 100%;
+    height: 450px;
+    background: url("../fotos/slide_1.jpg");
+ 	 }
+
+ 	 .pick_slide_2 {
+    width: 100%;
+    height: 450px;
+    background: url("../fotos/slide_2.jpg");
+ 	 }
+
+ 	 .pick_slide_3 {
+    width: 100%;
+    height: 450px;
+    background: url("../fotos/slide_3.jpg");
+ 	 }
+
+ 	 .pick_slide_4 {
+    width: 100%;
+    height: 450px;
+    background: url("../fotos/slide_4.jpg");
+ 	 }
+
+    .pick_slide_5 {
+    width: 100%;
+    height: 450px;
+    background: url("../fotos/predicas_1.jpg");
+     }
+
+ 	.bullet {
+ 	display: block;
+ 	}
+
+  }
